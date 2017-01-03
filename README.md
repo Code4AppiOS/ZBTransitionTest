@@ -1,6 +1,6 @@
 # ZBTransitionTest
 
-![image](https://github.com/k373379320/ZBTransitionTest/1.gif)
+![image](https://github.com/k373379320/ZBTransitionTest/blob/master/1.gif)
 
 
 
