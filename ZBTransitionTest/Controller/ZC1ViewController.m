@@ -17,7 +17,8 @@
 
 @implementation ZC1ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
     self.title = @"one";
     
