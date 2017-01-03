@@ -15,7 +15,8 @@
 /**
   格式别错了,不想写多余费代码,2维数组,@[@[原图控件name,结果图控件name]];用kvc加载的;
  
- @param array @[@{@"originalView":self.mainImageView,@"resultsView":@"mainImageView"}]
+ @[@[@"mainImageView",@"mainImageView"]]
+ @[@[@"mainImageView",@"mainImageView"],@[@"titleLabel",@"titleLabel"]]
 
  */
 + (instancetype)transitionWithViewArray:(NSArray *)array;
